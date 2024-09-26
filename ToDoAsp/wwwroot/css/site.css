@@ -16,3 +16,20 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.input {
+    margin: 15px;
+}
+.tasksCont {
+    display: flex;
+}
+
+
+.task {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px;
+    max-width: 250px;
+    min-width: 200px;
+}
